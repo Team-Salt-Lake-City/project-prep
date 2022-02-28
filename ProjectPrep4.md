@@ -6,11 +6,6 @@
 [results.html](http://framebox.org/ApGqp)
 [about-us.html](http://framebox.org/ApGQb)
 
-### Tasks
-Wireframes allow you to experiment with the look and feel of a website without committing any code. Create your wireframe in a digital tool. Whiteboard wireframes will not be accepted.
-
-Provide an image of your wireframes in the readme of your project.
-
 ## User Stories
 Start out by creating at least 5 user stories for your approved project. The outline/requirements for user stories can be found [HERE](https://codefellows.github.io/common_curriculum/projects/UserStories)
 
@@ -19,42 +14,37 @@ Each story in your project management board should contain:
 ### Story 1
 
 1. Title : CODLE
-2. User Story sentence :
-3. Feature Tasks :
-4. Acceptance Tests : 
-5. Provide a link to your project management board that contains your user stories in your project Readme. : 
+2. User Story sentence : As a player, I want an educational game that helps me study coding terminology.
+3. Feature Tasks : Collection of programming terms to pull from. Array of objects built with a constructor.
+4. Acceptance Tests : build a constructor to instantiate objects to pull from.
 
 ### Story 2
 
 1. Title : CODLE
-2. User Story sentence :
-3. Feature Tasks :
-4. Acceptance Tests : 
-5. Provide a link to your project management board that contains your user stories in your project Readme. : 
+2. User Story sentence : As a user, I want the game to be aesthetically pleasing so that it is easy to navigate.
+3. Feature Tasks : Clean and reactive css design.
+4. Acceptance Tests : Site looks good with a nice color pallet.
 
 ### Story 3
 
 1. Title : CODLE
-2. User Story sentence :
-3. Feature Tasks :
-4. Acceptance Tests : 
-5. Provide a link to your project management board that contains your user stories in your project Readme. : 
+2. User Story sentence : As a player, I want to see the results from all of my previous sessions.
+3. Feature Tasks :  Use local storage to populate a results page with data from previous game sessions.
+4. Acceptance Tests : Ensure that the locally stored data persists across page reloads. 
 
 ### Story 4
 
 1. Title : CODLE
-2. User Story sentence :
-3. Feature Tasks :
-4. Acceptance Tests : 
-5. Provide a link to your project management board that contains your user stories in your project Readme. : 
+2. User Story sentence : As a player, I don't want to see the same word two round of each other. 
+3. Feature Tasks :  Use conditional and/or while loops.
+4. Acceptance Tests : Ensure that words do not repeat within two rounds.
 
 ### Story 5
 
 1. Title : CODLE
-2. User Story sentence :
-3. Feature Tasks :
-4. Acceptance Tests : 
-5. Provide a link to your project management board that contains your user stories in your project Readme. : 
+2. User Story sentence : As a user, I want to know about the development team.
+3. Feature Tasks :  Include information about each developer on the about me page.
+4. Acceptance Tests : Ensure each developer has information on the page.
 
 
 
