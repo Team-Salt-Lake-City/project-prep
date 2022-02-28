@@ -1,9 +1,10 @@
 # Group Project: Begin Wireframes & Software Requirements
 
 ## Wireframes
-It is now time to begin preparations for your Group Project.
 
-The next step for group projects is to begin to generate wireframes for each page in your application.
+[index.html](http://framebox.org/ApGPN)
+[results.html](http://framebox.org/ApGqp)
+[about-us.html](http://framebox.org/ApGQb)
 
 ### Tasks
 Wireframes allow you to experiment with the look and feel of a website without committing any code. Create your wireframe in a digital tool. Whiteboard wireframes will not be accepted.
