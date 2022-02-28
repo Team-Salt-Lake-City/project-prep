@@ -15,11 +15,47 @@ Start out by creating at least 5 user stories for your approved project. The out
 
 Each story in your project management board should contain:
 
-1. Title
-2. User Story sentence
-3. Feature Tasks
-4. Acceptance Tests
-5. Provide a link to your project management board that contains your user stories in your project Readme.
+### Story 1
+
+1. Title : CODLE
+2. User Story sentence :
+3. Feature Tasks :
+4. Acceptance Tests : 
+5. Provide a link to your project management board that contains your user stories in your project Readme. : 
+
+### Story 2
+
+1. Title : CODLE
+2. User Story sentence :
+3. Feature Tasks :
+4. Acceptance Tests : 
+5. Provide a link to your project management board that contains your user stories in your project Readme. : 
+
+### Story 3
+
+1. Title : CODLE
+2. User Story sentence :
+3. Feature Tasks :
+4. Acceptance Tests : 
+5. Provide a link to your project management board that contains your user stories in your project Readme. : 
+
+### Story 4
+
+1. Title : CODLE
+2. User Story sentence :
+3. Feature Tasks :
+4. Acceptance Tests : 
+5. Provide a link to your project management board that contains your user stories in your project Readme. : 
+
+### Story 5
+
+1. Title : CODLE
+2. User Story sentence :
+3. Feature Tasks :
+4. Acceptance Tests : 
+5. Provide a link to your project management board that contains your user stories in your project Readme. : 
+
+
 
 ## Software Requirements
 Using the [Software Requirements Document](https://codefellows.github.io/common_curriculum/projects/SoftwareReqs), create a new file within your main GH repo named requirements.md. Include in this doc the required information for your software reqs for your project as a whole.
